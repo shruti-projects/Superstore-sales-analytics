@@ -63,7 +63,7 @@ Retail-Sales-Analytics/
 
 ## Report
 
-The full written analysis is in [Superstore Sales Analytics Report](Reports/Superstore_Sales_Analytics_Report.pdf).
+The full written analysis is in [Superstore Sales Analytics Report](file:///C:/Superstore%20Sales%20Analytics/Reports/Superstore%20Sales%20Analytics%20Report.pdf).
 
 ## How to Open
 
