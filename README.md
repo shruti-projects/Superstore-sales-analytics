@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyses Superstore sales and profit from 2020 to 2023. The project covers the full analytics workflow: data preparation in Excel, data modelling and DAX measures in Power BI, and a one-page dashboard with insights and recommendations.
 
-![Superstore Analytics Dashboard](Screenshots/Superstore_Dashboard.png)
+![Superstore Analytics Dashboard]([Screenshots/Superstore_Dashboard.pn](https://github.com/shruti-projects/Superstore-sales-analytics/blob/main/Superstore%20Sales%20Analytics/Screenshots/Superstore_Dashboard.png)
 )
 
 ## Project Objective
